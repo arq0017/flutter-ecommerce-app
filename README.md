@@ -5,7 +5,14 @@ A beautiful e-commerce "MyShop" application that's fully functional . While buil
 
 ### OUTPUT 
 - **SCREENSHOT OF MYSHOP APPLICATION**
-- Screenshots : 
+![auth](https://user-images.githubusercontent.com/70997750/120118697-7ae2fb00-c1b1-11eb-9d58-1a81aa2e5621.jpg)
+![homepage](https://user-images.githubusercontent.com/70997750/120118710-87ffea00-c1b1-11eb-9869-c8020746f576.jpg)
+![orders](https://user-images.githubusercontent.com/70997750/120118720-92ba7f00-c1b1-11eb-8fd5-ee71ab36bba5.jpg)
+![manage-products](https://user-images.githubusercontent.com/70997750/120118721-94844280-c1b1-11eb-89b6-0a2ae7d65ebd.jpg)
+![cart](https://user-images.githubusercontent.com/70997750/120118725-964e0600-c1b1-11eb-98a6-400408f29f1f.jpg)
+![filter](https://user-images.githubusercontent.com/70997750/120118726-9817c980-c1b1-11eb-8a73-bfbc4136adbc.jpg)
+![logout](https://user-images.githubusercontent.com/70997750/120118728-99e18d00-c1b1-11eb-9ec2-bda695b9ee6e.jpg)
+
 
 
 ## Key takeaways from project 
